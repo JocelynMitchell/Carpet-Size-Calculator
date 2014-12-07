@@ -1,0 +1,10 @@
+c:\users\jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\bin\Debug\Carpet Size.exe.config
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\bin\Debug\Carpet Size.exe
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\bin\Debug\Carpet Size.pdb
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\bin\Debug\Carpet Size.xml
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet_Size.Form1.resources
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet_Size.Resources.resources
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet Size.vbproj.GenerateResource.Cache
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet Size.exe
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet Size.xml
+C:\Users\Jocelyn\documents\visual studio 2012\Projects\Carpet Size\Carpet Size\obj\Debug\Carpet Size.pdb
